@@ -63,6 +63,6 @@
 [stackoverflow]: https://stackoverflow.com/users/1509124/geralexgr
 [linkedin]: https://linkedin.com/in/geralexgr
 [blog]: https://blog.geralexgr.com
-[youtube]: https://www.youtube.com/channel/UCQts2wVbLoX4G_e0H57Ay0A
+[youtube]: https://www.youtube.com/@geralexgr
 [site]: https://geralexgr.com
 [credly]: https://www.credly.com/users/gerasimos.alexiou/badges
