@@ -2,7 +2,7 @@
 ## Hey, I'm <a href="https://geralexgr.com" target="_blank">Gerasimos Alexiou</a>! 👋
 
 
-- DevOps Engineer working with Microsoft Products, Ansible, Terraform **@Vivawallet**  
+- ex DevOps Engineer working with Microsoft Products, Ansible, Terraform **@Vivawallet**  
 - ex Infrastructure engineer **@IBM**
 
 
