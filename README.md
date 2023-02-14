@@ -1,8 +1,8 @@
 
 ## Hey, I'm <a href="https://geralexgr.com" target="_blank">Gerasimos Alexiou</a>! 👋
 
-
-- ex DevOps Engineer working with Microsoft Products, Ansible, Terraform **@Vivawallet**  
+- Senior DevOps Engineer **@thesignalgroup.com**
+- ex DevOps Engineer  **@Vivawallet**  
 - ex Infrastructure engineer **@IBM**
 
 
