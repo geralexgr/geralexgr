@@ -31,7 +31,7 @@
 
 ## Contact me
 
-[webmaster [and the domain is] geralexgr [.] com](mailto:webmaster@geralexgr.com)
+webmaster [and the domain is] geralexgr [.] com
 
 ## Links
 
