@@ -19,6 +19,7 @@
 
 
 ## Presentations
+[Global Azure Greece 2024 - Deploying kubernetes applications with 2-clicks | Azure DevOps & Terraform](https://globalazure.net/sessions/665238)  
 [Azureheads Meetup (Nov 2023) - Multi-cloud deployments with Terraform using Azure DevOps](https://www.azureheads.gr/2023/11/36-azureheads-meetup-%ce%bc%ce%b9%ce%b1-%ce%b2%cf%81%ce%b1%ce%b4%ce%b9%ce%ac-%ce%b3%ce%bd%cf%8e%cf%83%ce%b7%cf%82-%ce%ba%ce%b1%ce%b9-%ce%b4%ce%b9%ce%ba%cf%84%cf%8d%cf%89%cf%83%ce%b7%cf%82/)  
 [Global Azure Greece 2023 - Build DevSecOps practices on CI/CD pipelines](https://global-azure-athens-2023.azurewebsites.net)  
 [Global Azure Greece 2022 - Automate virtual machines deployment with terraform and Azure DevOps](https://global-azure-greece-2022.azurewebsites.net/)
