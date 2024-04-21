@@ -1,6 +1,7 @@
 
 ## Hey, I'm <a href="https://geralexgr.com" target="_blank">Gerasimos Alexiou</a>! 👋
 
+- Cloud/Devops Engineer **@XM**
 - Senior DevOps Engineer **@thesignalgroup.com**
 - ex DevOps Engineer  **@Vivawallet**  
 - ex Infrastructure engineer **@IBM**
