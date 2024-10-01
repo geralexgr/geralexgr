@@ -36,7 +36,7 @@
 
 ## Contact me
 
-webmaster [and the domain is] geralexgr [.] com
+[contact.me](https://blog.geralexgr.com/contact)
 
 ## Links
 
