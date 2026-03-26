@@ -37,7 +37,8 @@
 
 ## Contact me
 
-[contact.me](https://blog.geralexgr.com/contact)
+[Book a private session for tailored advice on Cloud, DevOps, and IT](https://www.cal.eu/gerasimos-alexiou-jorq4v)
+
 
 ## Links
 
