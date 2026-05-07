@@ -15,8 +15,7 @@
 
 ## Courses
 [Mastering Azure Devops CI/CD Pipelines with YAML](https://www.udemy.com/course/mastering-azure-devops-cicd-pipelines-with-yaml)  
-[Azure DevOps platform Fundamentals - Build CI/CD pipelines](https://www.udemy.com/course/azure-devops-platform-fundamentals-build-cicd-pipelines/)  
-[DevOps Interview Questions Preparation Guide](https://www.udemy.com/course/devops-interview-questions-preparation-guide/)  
+[Azure DevOps platform Fundamentals - Build CI/CD pipelines](https://www.udemy.com/course/azure-devops-platform-fundamentals-build-cicd-pipelines/)
 
 
 ## Presentations
