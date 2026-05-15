@@ -8,7 +8,7 @@
 
 
 ## About me 
-- Microsoft Valuable Professional (2023-2024)
+- Microsoft Valuable Professional (2023-2026)
 - Microsoft Certified Trainer (2021-2024)
 - Blogger with over 300,000 views on my posts  
 - Living in Athens, Greece
