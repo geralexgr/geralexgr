@@ -49,10 +49,10 @@
   <a href="https://www.linkedin.com/in/geralexgr/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="35px" height="35px" alt="Linkedin" />
   </a>
-  <a href="https://geralexgr.com">
+  <a href="https://blog.geralexgr.com">
     <img src="https://skillicons.dev/icons?i=wordpress" width="35px" height="35px" alt="blog" />
   </a>
-  <a href="https://geralexgr.github.io">
+  <a href="https://geralexgr.com">
     <img src="https://skillicons.dev/icons?i=chrome" width="35px" height="35px" alt="site" />
   </a>
   <a href="https://www.youtube.com/@geralexgr">
