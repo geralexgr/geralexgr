@@ -42,29 +42,37 @@
 ## Links
 
 
-
-
-[<img align="left" alt="StackOverflow" width="35px" height="35px"  src="assets/stack-overflow-brands.svg" />][stackoverflow]
-[<img align="left" alt="Linkedin" width="35px" height="35px"  src="assets/linkedin-brands.svg" />][linkedin]
-[<img align="left" alt="blog" width="35px" height="35px"  src="assets/wordpress-brands.svg" />][blog]
-[<img align="left" alt="site" width="35px" height="35px"  src="assets/chrome-brands.svg" />][site]
-[<img align="left" alt="youtube" width="35px" height="35px"  src="assets/youtube-brands.svg" />][youtube]
-[<img align="left" alt="youtube" width="35px" height="35px"  src="assets/trophy.svg" />][credly]
+<div align="left">
+  <a href="https://stackoverflow.com/users/9156329/geralexgr">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" width="35px" height="35px" alt="StackOverflow" />
+  </a>
+  <a href="https://www.linkedin.com/in/geralexgr/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="35px" height="35px" alt="Linkedin" />
+  </a>
+  <a href="https://geralexgr.com">
+    <img src="https://skillicons.dev/icons?i=wordpress" width="35px" height="35px" alt="blog" />
+  </a>
+  <a href="https://geralexgr.github.io">
+    <img src="https://skillicons.dev/icons?i=chrome" width="35px" height="35px" alt="site" />
+  </a>
+  <a href="https://www.youtube.com/@geralexgr">
+    <img src="https://skillicons.dev/icons?i=yt" width="35px" height="35px" alt="youtube" />
+  </a>
+  <a href="https://www.credly.com/users/gerasimos.alexiou/badges">
+    <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-trophy-reward-and-badges-justicon-flat-justicon-1.png" width="35px" height="35px" alt="credly" />
+  </a>
+</div>
 
 <br />
 <br />
 
 
  ## Github stats
-<!-- ![Metrics](https://metrics.lecoq.io/geralexgr?template=classic&repositories.forks=true&isocalendar=1&languages=1&habits=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=html%2Cjavascript&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&gists=false&config.timezone=Europe%2FAthens) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=geralexgr&show_icons=true&theme=transparent&cache_seconds=32600)
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=geralexgr&show_icons=true&theme=transparent" alt="GitHub Stats" />
+</div>
 
-<!---
-[![GeralexGR's GitHub stats](https://github-readme-stats.vercel.app/api?username=geralexgr)](https://github.com/geralexgr/github/blob/main/README.md)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geralexgr&layout=compact)](https://github.com/geralexgr/github/blob/main/README.md)
---->
 
 
 [stackoverflow]: https://stackoverflow.com/users/1509124/geralexgr
