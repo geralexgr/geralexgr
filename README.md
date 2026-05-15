@@ -53,10 +53,10 @@
     <img src="https://skillicons.dev/icons?i=wordpress" width="35px" height="35px" alt="blog" />
   </a>
   <a href="https://geralexgr.com">
-    <img src="https://skillicons.dev/icons?i=chrome" width="35px" height="35px" alt="site" />
+    <img src="https://skillicons.dev/icons?i=html" width="35px" height="35px" alt="site" />
   </a>
   <a href="https://www.youtube.com/@geralexgr">
-    <img src="https://skillicons.dev/icons?i=yt" width="35px" height="35px" alt="youtube" />
+    <img src="https://skillicons.dev/icons?i=gcp" width="35px" height="35px" alt="youtube" />
   </a>
   <a href="https://www.credly.com/users/gerasimos.alexiou/badges">
     <img src="https://img.icons8.com/external-justicon-flat-justicon/64/external-trophy-reward-and-badges-justicon-flat-justicon-1.png" width="35px" height="35px" alt="credly" />
