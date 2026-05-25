@@ -33,6 +33,7 @@
 
 ## Projects
 [trade journal app - tradeloo.app](https://tradeloo.app)  
+[finance learning platform - beyond9to5.app](https://beyond9to5.app)
 
 ## Contact me
 
