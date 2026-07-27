@@ -32,7 +32,7 @@
 [deploy your .NET applications with Azure DevOps (Microsoft Top Stories - DevOps Community)](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-01-28/)  
 
 ## Projects
-[trade journal app - tradeloo.app](https://tradeloo.app)  
+[crypto tools for retail traders - tradeloo.app](https://tradeloo.app)  
 [finance learning platform - beyond9to5.app](https://beyond9to5.app)
 
 ## Contact me
