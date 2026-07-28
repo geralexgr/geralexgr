@@ -35,6 +35,9 @@
 [crypto tools for retail traders - tradeloo.app](https://tradeloo.app)  
 [finance learning platform - beyond9to5.app](https://beyond9to5.app)
 
+## Apps
+[moneyturtle - privacy expense manager](https://geralexgr.github.io/moneyturtle/index.html) 
+
 ## Contact me
 
 [Book a private session for tailored advice on Cloud, DevOps, and IT](https://www.cal.eu/gerasimos-alexiou-jorq4v)
