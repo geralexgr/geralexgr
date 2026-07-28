@@ -36,7 +36,7 @@
 [finance learning platform - beyond9to5.app](https://beyond9to5.app)
 
 ## Apps
-[moneyturtle - privacy expense manager](https://geralexgr.github.io/moneyturtle/index.html) 
+[privacy expense manager - moneyturtle](https://geralexgr.github.io/moneyturtle/index.html) 
 
 ## Contact me
 
