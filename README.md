@@ -36,7 +36,8 @@
 [finance learning platform - beyond9to5.app](https://beyond9to5.app)
 
 ## Apps
-[privacy expense manager - moneyturtle](https://geralexgr.github.io/moneyturtle/index.html) 
+[privacy expense manager - moneyturtle](https://geralexgr.github.io/moneyturtle/index.html)  
+[uae tower analytics - towerwise](https://geralexgr.github.io/TowerWise/) 
 
 ## Contact me
 
