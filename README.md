@@ -34,6 +34,9 @@
 ## Projects
 [crypto tools for retail traders - tradeloo.app](https://tradeloo.app)  
 [finance learning platform - beyond9to5.app](https://beyond9to5.app)
+[finance learning platform - benchome.com](https://benchome.com)
+[Property Decision Intelligence - benchome.com](https://benchome.com)
+[155 years of market history - pastfolio.app](https://pastfolio.app)
 
 ## Apps
 [privacy expense manager - moneyturtle](https://geralexgr.github.io/moneyturtle/index.html)  
