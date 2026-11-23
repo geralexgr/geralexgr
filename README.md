@@ -32,7 +32,7 @@
 [deploy your .NET applications with Azure DevOps (Microsoft Top Stories - DevOps Community)](https://devblogs.microsoft.com/devops/top-stories-from-the-microsoft-devops-community-2022-01-28/)  
 
 ## Projects
-[crypto tools for retail traders - tradeloo.app](https://tradeloo.app)  
+[crypto tools for retail traders - btcphase.com](https://btcphase.com)  
 [finance learning platform - beyond9to5.app](https://beyond9to5.app)  
 [Property Decision Intelligence - benchome.com](https://benchome.com)  
 [155 years of market history - pastfolio.app](https://pastfolio.app)  
@@ -40,11 +40,6 @@
 ## Apps
 [privacy expense manager - moneyturtle](https://moneyturtle.app)  
 [uae tower analytics - towerwise](https://TowerWise.app) 
-
-## Contact me
-
-[Book a private session for tailored advice on Cloud, DevOps, and IT](https://www.cal.eu/gerasimos-alexiou-jorq4v)
-
 
 ## Links
 
